@@ -1,0 +1,22 @@
+body {
+	color: white;
+	background-color: black;
+	font-family: arial;
+}
+
+main {
+	max-width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+}	
+
+h1, h2 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+span { font-size: 22px;}
+span b { font-size: 25px; }
+
